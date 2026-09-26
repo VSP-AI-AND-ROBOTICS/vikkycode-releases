@@ -1,7 +1,7 @@
 # Vikky Code
 
 An AI coding agent for your terminal, running on your Vikky Platform key.
-Part of [Vikky Verse](https://vikky.vspaiandrobotics.com) by VSP AI & Robotics.
+Part of [Vikky Verse](https://vikkyverse.com) by VSP AI & Robotics.
 
 This repository hosts release binaries and installers only.
 
@@ -26,7 +26,7 @@ vikkycode login   # paste your Vikky Platform API key
 vikkycode
 ```
 
-Get a key at https://vikky.vspaiandrobotics.com/platform.
+Get a key at https://vikkyverse.com/platform.
 
 ## Licence
 
